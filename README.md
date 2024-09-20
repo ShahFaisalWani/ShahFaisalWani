@@ -21,7 +21,7 @@
 
 ## ⚙️ Tech Stack:
 
-![Tech Stack](https://i.ibb.co/y6pVHNb/Screenshot-2567-09-20-at-21-59-35-removebg-preview-1.png)
+![Tech Stack](https://github.com/ShahFaisalWani/ShahFaisalWani/blob/main/techstack-honeycomb.png?raw=true)
 
 ---
 
